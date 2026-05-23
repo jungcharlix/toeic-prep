@@ -2,7 +2,7 @@
 
 一個完整的多益(TOEIC)備考網站,純前端 HTML 單檔即可運作,支援桌機與手機。
 
-🔗 **線上試用**:https://你的帳號.github.io/toeic-prep/
+🔗 **線上試用**:https://jungcharlix.github.io/toeic-prep/
 
 ---
 
